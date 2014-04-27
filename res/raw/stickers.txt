@@ -1,0 +1,640 @@
+00 Panini Special
+1 FIFA Fair Play
+2 Emblem Pt.1
+3 Emblem Pt.2
+4 Mascot Pt.1
+5 Mascot Pt.2
+World Cup Trophy
+Official Ball
+Estadio Mienirao Pt.1
+Estadio Mienirao Pt.2
+Estadio Nacional Pt.1
+Estadio Nacional Pt.2
+Arena Pantanal Pt.1
+Arena Pantanal Pt.2
+Arena da Baixada Pt.1
+Arena da Baixada Pt.2
+Estadio Castelao Pt.1
+Estadio Castelao Pt.2
+Arena Amazonia Pt.1
+Arena Amazonia Pt.2
+Estadio das Dunas Pt.1
+Estadio das Dunas Pt.2
+Estadio Beira-Rio Pt.1
+Estadio Beira-Rio Pt.2
+Arena Pernambuco Pt.1
+Arena Pernambuco Pt.2
+Estadio Maracana Pt.1
+Estadio Maracana Pt.2
+Arena Fonte Nova Pt.1
+Arena Fonte Nova Pt.2
+Arena Corinthians Pt.1
+Arena Corinthians Pt.2
+Brazil Badge Shiny
+Brazil Team
+Cesar
+Silva
+Luiz
+Alves
+Marcelo
+Dante
+Ramires
+Paulinho
+Gustavo
+Hernanes
+Oscar
+Bernard
+Willian
+Robinho
+Neymar
+Hulk
+Fred
+Croatia Badge Shiny
+Croatia Team
+Pletikosa
+Srna
+Corluka
+Strinic
+Lovren
+Vida
+Vrsaljko
+Vukojevic
+Kranjcar
+Modric
+Rakitic
+Kovacic
+Perisic
+Olic
+Eduardo
+Jelavic
+Mandzukic
+Mexico Badge Shiny
+Mexico Team
+Corona
+Marquez
+Rodriguez
+Moreno
+Layun
+Aguilar
+Reyes
+Guardado
+Herrera
+Pena
+Montes
+Dos Santos
+De Nigris
+Hernandez
+Peralta
+Jimenez
+Munoz
+Cameroon Badge Shiny
+Cameroon Team
+Itandje
+Chedjou
+Nikoulou
+Nounkeu
+Bedimo
+Assou-Ekotto
+Matip
+Mbia
+Song
+Enoh
+Makoun
+Nguemo
+Aboubakar
+Choupo-Moting
+Moukandjo
+Webo
+Eto'o
+Spain Badge Shiny
+Spain Team
+Casillas
+Ramos
+Pique
+Albiol
+Arbeloa
+Alba
+Alonso
+Busquets
+Hernandez
+Iniesta
+Fabregas
+Silva
+Navas
+Mata
+Rodriguez
+Villa
+Negredo
+Netherlands Badge Shiny
+Netherlands Team
+Cillessen
+Janmaat
+de Vrij
+Vlaar
+Indi
+Blind
+Clasie
+de Jong
+Strootman
+van der Vaart
+Sneijder
+Robben
+Depay
+Kuyt
+Lens
+Huntelaar
+van Persie
+Chile Badge Shiny
+Chile Team
+Bravo
+Gonzalez
+Mena
+Jara
+Rojas
+Medel
+Isla
+Valdivia
+Pizarro
+Fernandez
+Diaz
+Vidal
+Beausejour
+Aranguiz
+Pinilla
+Vargas
+Sanchez
+Australia Badge Shiny
+Australia Team
+Ryan
+Neill
+Davidson
+Milligan
+Franjic
+Williams
+Holman
+Jedinak
+McKay
+Bresciano
+Rogic
+Cahil
+Vidosic
+Oar
+Halloran
+Leckie
+Kennedy
+Colombia Badge Shiny
+Colombia Team
+Ospina
+Yepes
+Zapata
+perea
+Armero
+Zuniga
+Ramirez
+Sanchez
+Aguilar
+Guarin
+Cuadrado
+Torres
+Bacca
+Rodriguez
+Gutierrez
+Martinez
+Colombia
+Greece Badge Shiny
+Greece Team
+Karnezis
+Torosidis
+Papastathopoulos
+Maniatis
+Siovas
+Holebas
+Manolas
+Samaris
+Karagounis
+Katsouranis
+Tziolis
+Kone
+Ninis
+Samaras
+Salpingidis
+Gekas
+Mitroglou
+Ivory Coast Badge Shiny
+Ivory Coast Team
+Barry
+Toure
+Aurier
+Bamba
+Boka
+Angoua
+Zokora
+Toure
+Tiote
+Gosso
+Die
+Romaric
+Gervinho
+Kalou
+Bony
+Traore
+Drogba
+Japan Badge Shiny
+Japan Team
+Kawashima
+Yoshida
+Konno
+Uchida
+Nagatomo
+G.Sakai
+H.Sakai
+Morishige
+Endo
+Hasebe
+Honda
+Yamaguchi
+Kiyotake
+Kagawa
+Okazaki
+Kakitani
+Osako
+uruguay Badge Shiny
+Uruguay Team
+Muslera
+Lugano
+Godin
+Pereira
+Caseres
+pereira
+Gargano
+Rios
+Perez
+Gonzalez
+Rodriguez
+Ramirez
+Stuani
+Hernandez
+Forlan
+Cavani
+Suarez
+Costa Rica Badge Shiny
+Costa Rica Team
+Navas
+Gonzalez
+Umana
+Gamboa
+Acosta
+Diaz
+Miller
+Rodriguez
+Bolanos
+Cubero
+Borges
+Barrantes
+Tejeda
+Calvo
+Ruiz
+Campbell
+Saborio
+England Badge Shiny
+England Team
+Hart
+Cole
+Johnson
+Cahill
+Jagielka
+Walker
+Baines
+Gerrard
+Lampard
+Carrick
+Wilshere
+Milner
+Townsend
+Oxlade-Chamberlain
+Welbeck
+Sturridge
+Rooney
+Italy Badge Shiny
+Italy Team
+Buffon
+Barzagli
+Bonucci
+Chiellini
+Abate
+de Sciglio
+Motta
+de Rossi
+Pirlo
+Montolivo
+Marchisio
+Giaccherini
+Candreva
+Cerci
+Gilardino
+Rossi
+Balotelli
+Switzerland Badge Shiny
+Switzerland Team
+Benaglio
+Lichsteiner
+Rodriguez
+von Bergan
+Schr
+Senderos
+Djourou
+Barnetta
+Inler
+Behrami
+Dzemaili
+Xhaka
+Stocker
+Shaqiri
+Mehmedi
+Derdivok
+Seferovic
+Ecuador Badge Shiny
+Ecuador Team
+Dominguez
+Ayovi
+Erazo
+Guagua
+Achilier
+Paredes
+Mendez
+Valencia
+Saritama
+Noboa
+Castillo
+Rojas
+Valencia
+Ibarra
+Montero
+Caicedo
+Ayovi
+France Badge Shiny
+France Team
+Lloris
+Evra
+Debuchy
+Varane
+Koscielny
+Sakho
+Abidal
+Sissoko
+Cabaye
+Matuidi
+Pogba
+Valbuena
+Nasri
+Ribery
+Remy
+Giroud
+Benzema
+Honduras Badge Shiny
+Honduras Team
+Balladares
+Izaguirre
+Bernandez
+Figueroa
+Garcia
+Beckeles
+Carlos
+Peralta
+Garcia
+Espinoza
+Garrido
+Palacios
+Najar
+Palacios
+Chavez
+Bengtson
+Costly
+Argentina Badge Shiny
+Argentina Team
+Romero
+Zabaleta
+Garay
+Fernandez
+Campagnaro
+Rojo
+Biglia
+Mascherano
+Gago
+Banega
+Rodriguez
+di Maria
+Lavezzi
+Palacio
+Aguero
+Higuain
+Messi
+Bosnia Badge Shiny
+Bosnia Team
+Begovic
+Spahic
+Vrsajevic
+Bicakcic
+Sunjic
+Kolasinic
+Lulic
+Ibricic
+Mujdza
+Medunjanin
+Misimovic
+Pijanic
+Salihovic
+Zahirovic
+Hajrovic
+Ibisevic
+Dzeko
+Iran Badge Shiny
+Iran Team
+Davari
+Hosseini
+Heydari
+Mahaini
+Montazeri
+Hajsafi
+Biezadeh
+Sadeghi
+Nekounam
+Teymourian
+Jabbari
+Shojaei
+Dejagah
+Ghoochannejhad
+Rezaei
+Ansaifard
+Khalatbari
+Nigeria Badge Shiny
+Nigeria Team
+Enyeama
+Yobo
+Ambrose
+Oboabona
+Echiejile
+Egwuekwe
+Omeruo
+Ogu
+Mikel
+Onazi
+Mba
+Moses
+Oduamadi
+Musa
+Brown
+Ameobi
+Emenike
+Germany Badge Shiny
+Germany Team
+Neuer
+Lahm
+Mertesacker
+Boateng
+Hummels
+Schmelzer
+Khedira
+Schweinsteiger
+Kroos
+Ozil
+Gotze
+Draxler
+Reus
+Schurrle
+Podolski
+Muller
+Klose
+Portugal Badge Shiny
+Portugal Team
+Patricio 
+Pepe
+Alves
+Pereira
+Coentrao
+Costa
+Antunes
+Josue
+Veloso
+Moutinho
+Meireles
+Carvalho
+Nani
+Varela
+Ronaldo
+Postiga
+Almeida
+Ghana Badge Shiny
+Ghana Team
+Dauda
+Inkoom
+Mensah
+Opare
+Afful
+Boye
+Essien
+Badu
+Asamoah
+Muntari
+Mubarak
+Boateng
+Majeed
+Atsu
+A.Ayew
+J.Ayew
+Gyan
+USA Badge Shiny
+USA Team
+Howard
+Cameron
+Gonzalez
+Goodson
+Besler
+Johnson
+Beasley
+Jones
+Bradley
+Evans
+Zusi
+Diskerud
+Dempsey
+Johannsson
+Donovan
+Johnson
+Altidore
+Belgium Badge Shiny
+Belgium Team
+Courtoids
+Kompany
+Alderwiereld
+Vertonghen
+van Buyten
+Vermaelen
+Defour
+Witsel
+Dembele
+de Bruyne
+Fellaini
+Chadli
+Hazard
+Mertenes
+Miralas
+Lukaku
+Benteke
+Algeria Badge Shiny
+Algeria Team
+M'Bolhi
+Bougherra
+Medjani
+Guedioura
+Mesbah
+Mostefa
+Ghoulam
+Belkalem
+Yebda
+Lacen
+Brahimi
+Taider
+Feghouli
+Djebbour
+Ghilas
+Soudani
+Slimani
+Russia Badge Shiny
+Russia Team
+Akinfeev
+Ignashevich
+A.Berzutski
+V.Berzutski
+Kombarov
+Anyukov
+Kozlov
+Shirokov
+Denisov
+Fayzulin
+Bystrov
+Glushakov
+Samedov
+Dzagoev
+Smolov
+Kokorin
+Kerzhakov
+Korea Badge Shiny
+Korea Team
+Sung-Ryong
+Tae-Hwi
+Jeong-Ho
+Young-Gwon
+Joo-Ho
+Kwang-Hoon
+Yong
+Kook-Young
+Chung-Yong
+Sung-Yueng
+Ja-Cheol
+Bo-Kyung
+Heung-Min
+Dong-Won
+Shin-Wook
+Chu-Young
+Keun-Ho
